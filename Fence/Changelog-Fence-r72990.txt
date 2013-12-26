@@ -1,0 +1,11 @@
+------------------------------------------------------------------------
+r72990 | phyber | 2008-05-07 12:44:09 -0400 (Wed, 07 May 2008) | 4 lines
+Changed paths:
+   M /trunk/Fence/Fence.toc
+   M /trunk/Fence/modules/Fence_Sort.lua
+
+Fence:
+- Sorting on Buyout is back.
+- Name and Buyout sort now do 'real' sorts instead of only sorting the current page.
+- Bumped TOC.
+------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+﻿## Interface: 20400
+## Title: Fence|cff7fff7f -Ace2-|r
+## Notes: An auction house AddOn to make the life of each fence easier.
+## Notes-deDE: Ein Auktionshaus AddOn, um das Leben eines jeden Hehlers zu vereinfachen.
+## Notes-zhTW: 一個幫助玩家在拍賣場買賣的插件。
+## Notes-zhCN: 一个可以使玩家的拍卖行操作更加便利的小插件，官方版由Taburiss汉化。
+## Version: 1.0
+## Author: Neriak
+## OptionalDeps: Ace2, AbacusLib
+## X-Category: Interface Enhancements
+## X-Credits: Random, phyber, Rowne, Kaelten, Vincent (D.A.Down)
+## X-RelSite-WoWI:
+## X-AceForum: 3255
+## SavedVariables: FenceDB
+## LoadMangers: AddonLoader, ForkliftGnome
+## X-LoadOn-AuctionHouse: true
+
+## X-Embeds: Ace2, AbacusLib
+embeds.xml
+
+Core.lua
+modules\Fence_BidWatch.lua
+modules\Fence_AutoFill.lua
+modules\Fence_Clicks.lua
+modules\Fence_Sort.lua
+modules\Fence_Browse.lua
+modules\Fence_Search.lua
+#modules\Fence_Bookmarks.lua

@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: Fence [|cffeda55fBatch|r]
+## Notes: Allows batch creation of multiple auctions.
+## Author: Siarkowy
+## Version: 1.0
+## Dependencies: Fence
+
+Fence_Batch.lua
